@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Wooden-Craft",
+      "category": "Wood-Craft",
+      "brand": "ABCD",
+      "price": 999.99,
+      "stock": 50,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed ipsum blanditiis esse perferendis dolores repudiandae magnam?",
+      "image": "../images/woodenCraft.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Wooden-Craft",
+      "category": "jewelries",
+      "brand": "ABCD",
+      "price": 1499.99,
+      "stock": 100,
+      "image": "../images/wooden-box.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed ipsum blanditiis esse perferendis dolores repudiandae magnam?"
+    },
+    {
+      "id": 3,
+      "name": "Wooden-Craft",
+      "category": "Wooden",
+      "brand": "ABCD",
+      "price": 1499.99,
+      "stock": 30,
+      "image": "../images/wooden-Elephant.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed ipsum blanditiis esse perferendis dolores repudiandae magnam?"
+    },
+    {
+      "id": 4,
+      "name": "Neckless",
+      "category": "Neckless",
+      "brand": "ABCD",
+      "price": 699.99,
+      "stock": 20,
+      "image": "../images/mala.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed ipsum blanditiis esse perferendis dolores repudiandae magnam?"
+    },
+    {
+      "id": 5,
+      "name": "Wooden-Craft",
+      "category": "Others",
+      "brand": "ABCD",
+      "price": 399.99,
+      "stock": 30,
+      "image": "../images/fish-dec.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed ipsum blanditiis esse perferendis dolores repudiandae magnam?"
+    },
+    {
+      "id": 6,
+      "name": "Flask",
+      "category": "Flask",
+      "brand": "ABCD",
+      "price": 899.99,
+      "stock": 20,
+      "image": "../images/flask.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed ipsum blanditiis esse perferendis dolores repudiandae magnam?"
+    }
+  ]
+  
